@@ -1,0 +1,9 @@
+facing_id,facing
+0,east
+1,north
+7,west
+2,north - east
+4,south
+3,north - west
+5,south - east
+6,south -west
