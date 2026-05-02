@@ -112,7 +112,7 @@ data/
 notebooks/
 dashboard/
 reports/
-assets/
+images/
 README.md
 ```
 
